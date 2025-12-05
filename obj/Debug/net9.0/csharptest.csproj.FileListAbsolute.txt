@@ -12,3 +12,4 @@ C:\GitHub\csharptest\obj\Debug\net9.0\refint\csharptest.dll
 C:\GitHub\csharptest\obj\Debug\net9.0\csharptest.pdb
 C:\GitHub\csharptest\obj\Debug\net9.0\csharptest.genruntimeconfig.cache
 C:\GitHub\csharptest\obj\Debug\net9.0\ref\csharptest.dll
+C:\GitHub\csharptest\obj\Debug\net9.0\csharptest.sourcelink.json
